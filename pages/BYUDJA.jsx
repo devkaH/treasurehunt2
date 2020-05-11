@@ -24,7 +24,7 @@ const Congrats = () => (
       </Header>
     </Grid.Row>
     <Grid.Row>
-      <Header as="h1">ctrl + k "ADEOP"</Header>
+      <Header as="h1">ctrl + k "celebratetb2"</Header>
     </Grid.Row>
     <br />
     <br />
